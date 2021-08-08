@@ -15,7 +15,9 @@ describe('Login page', () =>
 
   it('Positive scenario - Make a claim', () => 
   {
-    mainclaimpage.assertPageHeader()
+    mainclaimpage.assertPageHeader
+    mainclaimpage.assertFCPdf
+    mainclaimpage.assertCFPdf()
     mainclaimpage.clickClaimBtn()
 
     cy.get('.claim-section > h1').should('have.text', 'Confirm your details').and('not.be.disabled')
