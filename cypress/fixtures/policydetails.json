@@ -1,0 +1,22 @@
+{
+    "firstname": "Jun",
+    "lastname": "Cypress",
+    "petname": "Automation",
+    "policy": "1234567",
+    "email": "test@yahoo.com",
+    "contact": "02040123456",
+
+    "provider1": "Countdown",
+    "provider2": "Pak n save",
+    "provider3": "K9 HQ",
+    "provider4": "Abbotts Way Veterinary Clinic",
+    "provider5": "Anexa FVC - Gordonton",
+    "provider6": "Animal Dermatology NZ",
+
+    "amount1": "5.00",
+    "amount2": "10.00",
+    "amount3": "200.00",
+    "amount4": "3000.00",
+    "amount5": "40000.00",
+    "amount6": "500000.00"
+}
